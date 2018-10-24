@@ -33,4 +33,4 @@ client.on("message", (message) => {
 }
 });
 
-client.login("NTA0MjY1OTk4Njk5MDY5NDcw.DrCwCw.1yjerQW1qpuKDpoxUgR2qIe1WNc");
+client.login("[Note to self: Fuckin fix this MASSIVE security issue u dumbass]");
